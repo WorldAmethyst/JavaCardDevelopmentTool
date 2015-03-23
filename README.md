@@ -1,5 +1,5 @@
 # JavaCardDevelopmentTool
-The Java Card Development Tool are mainly:
+The Java Card Development Kits are mainly:
 
 1, JCOP:
 
