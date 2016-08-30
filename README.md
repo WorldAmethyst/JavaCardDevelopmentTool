@@ -16,6 +16,6 @@ URL: http://www.oracle.com/technetwork/java/embedded/javacard/downloads/index.ht
 
 JCIDE is a powerful javacard applet development platform. JCIDE lets you quickly and easily develop Java card applications and it's free to use.
 
-URL: http://javacos.com/developmentkit.php
+URL: http://www.javacardos.com/tools/
 
 4, ......
